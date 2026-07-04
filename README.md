@@ -33,4 +33,5 @@ Related
 calibration-harness (forthcoming) — post-hoc confidence calibration of LLM outputs: elicitation, proper scoring rules (Brier/CRPS), reliability diagnostics, frozen held-out validation.
 
 License / contact
-Architecture documentation only; implementation is proprietary to Relight Labs. Questions: cjdeschenes@entrasoft.com · @Chris_Deschenes
+Architecture documentation only; implementation is proprietary to Relight Labs. 
+Questions: cjdeschenes@relightlabs.ai · @Chris_Deschenes
